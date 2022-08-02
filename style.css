@@ -44,7 +44,7 @@ main .content.right{
 }
 
 
-h1, h3{
+h1, h2{
     font-family: 'Fraunces', serif;
     position: relative;
     margin:0px;
@@ -55,7 +55,7 @@ h1{
     line-height: 40px;
 }
 
-h3{
+h2{
     color: var(--dark-cyan);
     font-size: 30px;
 }
@@ -134,7 +134,6 @@ button:hover{
     }
 
     .price{
-      
         width: 50%;
         margin: 1.5rem 0;
     }
